@@ -1,0 +1,1 @@
+## szzt Configuration System Document depend on vitepress
